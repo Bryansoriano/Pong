@@ -1,4 +1,3 @@
-[![Logo](https://imgur.com/a/7XUAykW.png)](http://i.imgur.com)
+[![Logo]([img]https://i.imgur.com/L8v6lZc.png[/img])](http://i.imgur.com)
 # Pong
-https://imgur.com/a/7XUAykW
 Pong made using Turtle Library
